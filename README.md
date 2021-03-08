@@ -1,5 +1,5 @@
 # Hotel Room Booking System
-The Atlantis Hotel Room Booking System is a desktop application developed using Java. The interface is designed using Java Swing GUI widget toolkit. Data processing I/O is done using text files.
+The Atlantis Hotel Room Booking System is a desktop application developed using Java. The user interface is designed using Java Swing GUI toolkit. Data processing is done using text files.
 
 <br>
 
